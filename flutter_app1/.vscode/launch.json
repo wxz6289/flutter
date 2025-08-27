@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/dreamerking/learn/fultter/flutter_app1/windows/flutter",
+      "program": "/Users/dreamerking/learn/fultter/flutter_app1/windows/flutter/build/Debug/outDebug"
+    }
+  ]
+}
